@@ -36,7 +36,7 @@
 ## 🔎 ++ 
 
 <div>
-  <img aling="center" alt="java" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbbruna&langs_count=8&theme=dark">  
+  <img aling="center" alt="readme" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbbruna&langs_count=8&theme=dark">  
 </div>
 
 
