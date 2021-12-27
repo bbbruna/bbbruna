@@ -1,5 +1,8 @@
 ## Olá! :) 
 
+
+![snake gif](https://github.com/bbbruna/bbbruna/blob/output/github-contribution-grid-snake.gif)
+
 - 💻 Cursando ciência da computação. 
 - 📘 Estudando python e typescript.
 
@@ -39,4 +42,3 @@
   <img aling="center" alt="java" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbbruna&langs_count=8&theme=dark">  
 </div>
 
-![snake gif](https://github.com/bbbruna/bbbruna/blob/output/github-contribution-grid-snake.gif)
