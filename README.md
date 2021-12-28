@@ -33,12 +33,4 @@
 
 
 
-## 🔎 ++
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbbruna&layout=compact&theme=dark)](https://github.com/bbbruna/github-readme-stats)
-
-
-
-
-
 <!-- ![snake gif](https://github.com/bbbruna/bbbruna/blob/output/github-contribution-grid-snake.gif) -->
