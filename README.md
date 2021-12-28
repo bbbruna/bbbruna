@@ -1,6 +1,5 @@
 ## Olá! :) 
 
-- 💻 Cursando ciência da computação. 
 - 📘 Estudando python e typescript.
 
 
