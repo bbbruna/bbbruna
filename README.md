@@ -33,6 +33,10 @@
 
 
 
+## 🔎 ++
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbbruna&layout=compact&theme=dark)](https://github.com/bbbruna/github-readme-stats)
+
 
 
 
