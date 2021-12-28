@@ -34,8 +34,8 @@
 
 
 ## 🔎 ++
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbbruna&hide=html&layout=compact&theme=dracula)](https://github.com/bbbruna/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbbruna&layout=compact&theme=dark)](https://github.com/bbbruna/github-readme-stats)
 
 
 
