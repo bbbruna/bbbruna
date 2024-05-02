@@ -1,8 +1,5 @@
 ## Olá! :) 
 
-- 📘 Estudando python e typescript.
-
-
 ## 🚀 Skills
 <div "display: inline_block" >
   <img aling="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">  
