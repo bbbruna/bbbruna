@@ -16,6 +16,7 @@
   <img aling="center" alt="sql_server" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
   <img aling="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img aling="center" alt="microsoft_acess" src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white"> 
+  <img aling="center" alt="sass" src="https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass"> 
 </div>
 
 
